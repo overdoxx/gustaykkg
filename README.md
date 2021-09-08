@@ -1,5 +1,3 @@
-<p> Olá! Me chamo Gustavo </p>
-
 <div>
   <a href="https://github.com/gustaykkg">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=gustaykkg&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
